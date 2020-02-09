@@ -1,5 +1,4 @@
 # SecimTahmini
-# SecimTahmini
 A 'Machine Learning' code written with Python that predicts which party to vote based on the answers to the asked 10 questions.
 ## Requirements
 Which is you need to download before use code
